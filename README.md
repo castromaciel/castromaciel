@@ -3,6 +3,7 @@
 </br>
 <p>I'm 21 years old, and I'm from Argentina, Jujuy. Actually I'm living in San Miguel de Tucumán.</p>
 <ul>
+  <li> 🌱 Biomedical Engineering Student </li>
   <li> 🌱 I’m currently learning Fullstack </li>
 </ul>
 <h4> Skills: </h4>
