@@ -5,7 +5,7 @@
 <ul>
   <li> 🌱 Biomedical Engineering Student </li>
   <li> 🌱 I’m currently learning React </li>
-  <li> 👯 I’m looking to collaborate on Frontend </li>
+  <li> 👯 I’m looking to collaborate on Frontend projects </li>
 </ul>
 <h4> Skills: </h4>
 <div>
