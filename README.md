@@ -17,9 +17,9 @@ I'm 22 years old, and I'm from Argentina, Jujuy. Actually I'm living in San Migu
 <br />
 
 <div align='end'>
-
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=castromaciel&show_icons=true)
   
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=castromaciel" height="200" alt="stats graph"  />
+
 </div>
 
   
