@@ -3,7 +3,7 @@
 
 I'm 22 years old, and I'm from Argentina, Jujuy. Actually I'm living in San Miguel de Tucumán.
 
-- 🔭 I’m currently working on [maps-app](https://github.com/castromaciel/maps-app) personal project. 
+- 🔭 I’m currently working on [ui-rollingcode](https://github.com/castromaciel/ui-rollingcode) library. 
 - 🌱 I’m currently learning Swift & Swift UI 
 
 <h3> Skills: </h3>
