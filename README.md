@@ -7,4 +7,4 @@ I'm 23 years old, and I'm from Argentina, Jujuy. Currently living in San Miguel 
 - 🔭 Working on my [personal website](https://castromaciel-blog.netlify.app/) and [ui-rollingcode](https://github.com/castromaciel/ui-rollingcode) library. 
 - 🌱 Learning Swift & Swift UI.
 
-<img src="./github-metrics.svg" width="80%"/>
+<img src="./github-metrics.svg" width="60%"/>
